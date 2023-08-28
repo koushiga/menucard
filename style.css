@@ -117,7 +117,7 @@ body{
 }
 .flex_amount p::after{
 	content:"";
-	width:1350%;
+	width:1100%;
 	border:2px dotted white;
 	position:absolute;
     top:11px;
